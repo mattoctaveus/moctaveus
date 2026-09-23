@@ -13,9 +13,9 @@ My work focuses on:
 
 ## 👋 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt.octaveus@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt.octaveus@gmail.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-o-55a7811ba/)
-[![Phone](https://img.shields.io/badge/Phone-Call_Me-2E7D32?style=for-the-badge)](tel:+14164579089)
+[![Phone](https://img.shields.io/badge/Phone-Call_Me-2E7D32?style=for-the-badge)](tel:+14164579089/)
 
 ## 🛠️ Technologies & Tools
 
