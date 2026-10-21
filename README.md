@@ -96,12 +96,11 @@ Remove this opening comment and the closing comment to show the section.
 
 ### 💻 Languages Across My Repositories
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattoctaveus&layout=compact&theme=github_dark&hide_border=true)
 
 <!-- Language statistics reflect repository code, not proficiency. -->
 
-[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
-
+[Explore my repositories →](https://github.com/mattoctaveus?tab=repositories)
 ## 🤝 Let's Connect
 
 Interested in discussing **data science, machine learning, or web development**?
