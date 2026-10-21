@@ -100,8 +100,7 @@ Remove this opening comment and the closing comment to show the section.
 
 <!-- Language statistics reflect repository code, not proficiency. -->
 
-[Explore my repositories →](https://github.com/mattoctaveus/moctaveus
-?tab=repositories)
+[Explore my repositories →](https://github.com/mattoctaveus/moctaveus?tab=repositories)
 ## 🤝 Let's Connect
 
 Interested in discussing **data science, machine learning, or web development**?
